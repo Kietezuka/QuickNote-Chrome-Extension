@@ -22,7 +22,7 @@ QuickNote is a lightweight, easy-to-use note-taking web app. It allows users to 
 - 📝 Edit existing notes in-place
 - 🗑 Delete notes individually
 - 💾 Save and persist notes using `localStorage`
-- 🔎 Search notes by keyword (title, body, or category)
+- 🔎 Search notes by keyword (title or body)
 - 🔃 Sort notes by:
 
   - 📅 Date
