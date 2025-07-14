@@ -6,7 +6,7 @@ QuickNote is a lightweight, easy-to-use note-taking web app. It allows users to 
 
 ## 📷 Screenshot
 
-![Alt text](path/to/image.png)
+![Screenshot](./Screenshot.png)
 
 ## 🔗 Demo
 
