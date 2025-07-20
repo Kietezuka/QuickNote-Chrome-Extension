@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 .container {
-  max-width: 450px;
+  max-width: 550px;
   min-width: 250px;
   padding: 5px;
 }
@@ -11,16 +11,16 @@ body {
 .input-section {
   padding: 5px;
   border-radius: 5px;
-  margin: 10px 5px 5px 5px;
+  margin: 10px 2px;
   display: flex;
   flex-direction: column;
   background-color: rgb(204, 246, 204);
 }
 
 #note-section {
-  padding: 5px;
+  padding: 2px;
   border-radius: 5px;
-  margin: 10px 5px 5px 5px;
+  margin: 10px 2px;
   display: flex;
   flex-direction: column;
   background-color: rgb(204, 246, 204);
