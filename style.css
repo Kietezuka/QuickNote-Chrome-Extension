@@ -54,7 +54,8 @@ button {
 }
 
 .show-text {
-  height: fit-content;
+  min-height: fit-content;
+  max-height: 200px;
   width: 95%;
   display: flex;
   margin: 2px auto;
