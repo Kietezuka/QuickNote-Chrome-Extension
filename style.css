@@ -59,9 +59,9 @@ button {
   display: flex;
   margin: 2px auto;
   border: thin solid black;
+  background-color: aliceblue;
 }
-#memo-text,
-.show-text {
+#memo-text {
   height: 60px;
   background-color: aliceblue;
 }
@@ -104,7 +104,10 @@ textarea {
   margin: 0px 5px 5px 5px;
 }
 .show-notes {
-  height: fit-content;
+  max-height: max-content;
+  min-height: min-content;
+}
+.show-note {
   border-radius: 5px;
   background-color: lab(96.71% 1.53 7.56);
   border: 0.5px solid black;
