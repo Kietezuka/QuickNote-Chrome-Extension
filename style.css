@@ -54,8 +54,8 @@ button {
 }
 
 .show-text {
-  max-height: max-content;
-  min-height: min-content;
+  max-width: fit-content;
+  min-height: 60px;
   width: 95%;
   display: flex;
   margin: 2px auto;
@@ -104,9 +104,7 @@ textarea {
   gap: 5px;
   margin: 0px 5px 5px 5px;
 }
-.show-notes {
-  height: fit-content;
-}
+
 .show-note {
   border-radius: 5px;
   background-color: lab(96.71% 1.53 7.56);
