@@ -54,7 +54,8 @@ button {
 }
 
 .show-text {
-  height: fit-content;
+  max-height: max-content;
+  min-height: min-content;
   width: 95%;
   display: flex;
   margin: 2px auto;
@@ -104,8 +105,7 @@ textarea {
   margin: 0px 5px 5px 5px;
 }
 .show-notes {
-  max-height: max-content;
-  min-height: min-content;
+  height: fit-content;
 }
 .show-note {
   border-radius: 5px;
